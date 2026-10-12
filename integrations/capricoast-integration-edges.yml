@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/capricoast/integrations
+- https://n8n.io/integrations/capricoast/
+- https://composio.dev/toolkits/capricoast
+- https://monid.ai/tools/capricoast
+checked:
+- https://composio.dev/toolkits/capricoast
+- https://monid.ai/tools/capricoast
+- https://n8n.io/integrations/capricoast/
+- https://zapier.com/apps/capricoast/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
